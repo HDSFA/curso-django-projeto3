@@ -1,2 +1,1 @@
-asdfadsf
-asdf
+Curso Django
